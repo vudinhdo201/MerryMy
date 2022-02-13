@@ -202,3 +202,8 @@ section{
  .mm{
    text-align: center;
  }
+
+.sec-01 .container .content{
+   align-items: center;
+   left: 80px;
+ }
